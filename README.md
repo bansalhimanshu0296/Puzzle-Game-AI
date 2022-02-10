@@ -4,7 +4,7 @@ This project was done as a part of CSCI-B-551 Elements of Artificial Intelligenc
 
 ## Command to run the program ##
 
-python3 solver2021.py <input-board-filename>
+python3 solver2021.py [input-board-filename]
 
 
 
